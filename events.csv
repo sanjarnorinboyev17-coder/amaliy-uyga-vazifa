@@ -1,0 +1,6 @@
+id,service,status
+1,web,ok
+2,database,error
+3,cache,ok
+4,worker,error
+5,api,ok

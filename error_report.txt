@@ -1,0 +1,7 @@
+rotating_app.log: 2026-09-23 18:36:34,026 ERROR Namuna ERROR: test xabari
+rotating_app.log: 2026-09-23 18:36:34,030 INFO CSV filtrlash tugadi: 2 ta ERROR qator
+rotating_app.log: 2026-09-23 18:36:34,030 INFO ERROR hisoboti tayyorlandi: 1 ta yozuv
+rotating_app.log: 2026-09-23 18:36:53,934 ERROR Namuna ERROR: test xabari
+rotating_app.log: 2026-09-23 18:36:53,936 INFO CSV filtrlash tugadi: 2 ta ERROR qator
+rotating_app.log: 2026-09-23 18:36:53,936 INFO ERROR hisoboti tayyorlandi: 4 ta yozuv
+rotating_app.log: 2026-09-23 18:39:16,402 ERROR Namuna ERROR: test xabari
